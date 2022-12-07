@@ -4,3 +4,8 @@ test from local
 
 test file merge conflict
 
+test stash 
+public static void main()
+{
+System.out.print("comitting from the branch")
+}
